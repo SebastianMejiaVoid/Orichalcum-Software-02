@@ -14,3 +14,6 @@ https://github.com/Carlos19711101
 
 Karen Lorena Ruiz Martinez
 https://github.com/KarenLRuizM
+
+Luis Alberto Quintero Sandoval
+https://github.com/betocol
